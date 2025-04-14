@@ -2,6 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
 
 Product Manager
+<b> ![alt text](kitty.png) </b>
 ---------------
 
 Creative and collaborative product professional with extensive experience leading agile digital transformation projects across EdTech and non-profit sectors. Currently upskilling in data analytics, with hands-on experience in Python, SQL, and Power BI to build insightful visualisations. Passionate about promoting STEM education and using technology for social impact. Proven track record of delivering user-centric solutions, managing cross-functional teams, and driving strategy through data-driven decisions. Always curious, adaptable, and driven to make a difference through innovation.
