@@ -14,7 +14,7 @@ Creative and collaborative product professional with extensive experience leadin
 * 🤝  I'm open to collaborating on new challenges, sustainability, STEM, international development projects
 * ⚡  I am a team player and have previously competed in a 5-a-side Football tournament at Wembley goals (MIT United) scoring 7 goals in one match.
 
-#### Projects
+### Projects
 <!-- Working Excel, Tableau, Power BI icons -->
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="36" height="36" alt="Excel" /></a>
 <a href="https://www.tableau.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="36" height="36" alt="Tableau" /></a>
