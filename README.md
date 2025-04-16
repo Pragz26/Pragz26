@@ -8,7 +8,7 @@ Product Manager
 Creative and collaborative product professional with extensive experience leading agile digital transformation projects across EdTech and non-profit sectors. Currently upskilling in data analytics, with hands-on experience in Python, SQL, and Power BI to build insightful visualisations. Passionate about promoting STEM education and using technology for social impact. Proven track record of delivering user-centric solutions, managing cross-functional teams, and driving strategy through data-driven decisions. Always curious, adaptable, and driven to make a difference through innovation. </p>
 
 * 🌍  I'm based in London
-* ✉️  You can contact me at [limbupragya@hotmail.com](mailto:limbupragya@hotmail.com)
+* ✉️  You can contact me on [LinkedIn](http://www.linkedin.com/in/pragya-limbu-g/)
 * 🚀  I'm currently working on [Ignite Hubs](http://www.ignitehubs.org.uk/)
 * 🧠  I'm learning Python, SQL, Power BI
 * 🤝  I'm open to collaborating on new challenges, sustainability, STEM, international development projects
