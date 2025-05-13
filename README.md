@@ -10,8 +10,8 @@ Creative and collaborative product professional with extensive experience leadin
 * 🌍  I'm based in London
 * ✉️  You can contact me on [LinkedIn](http://www.linkedin.com/in/pragya-limbu-g/)
 * 🚀  I'm currently working on [Ignite Hubs](http://www.ignitehubs.org.uk/)
-* 🧠  I'm learning Python, SQL, Power BI
-* 🤝  I'm open to collaborating on new challenges, sustainability, STEM, international development projects
+* 🧠  I'm learning Python, SQL and Power BI
+* 🤝  I'm open to collaborating on new challenges, sustainability, STEAM and international development projects.
 * ⚡  I am a team player and have previously competed in a 5-a-side Football tournament at Wembley goals (MIT United) scoring 7 goals in one match.
 
 ### Projects
